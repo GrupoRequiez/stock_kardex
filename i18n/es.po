@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#	* stock_kardex
+#   * stock_kardex
 #
 msgid ""
 msgstr ""
@@ -62,7 +62,7 @@ msgstr "Fecha finalización"
 #. module: stock_kardex
 #: model:ir.model.fields,field_description:stock_kardex.field_stock_kardex_stock_end
 msgid "Ending stock"
-msgstr "Ending stock"
+msgstr "Stock Final"
 
 #. module: stock_kardex
 #: model:ir.model.fields,field_description:stock_kardex.field_stock_kardex_detail_id
@@ -154,7 +154,7 @@ msgstr "Fecha de inicio"
 #. module: stock_kardex
 #: model:ir.model.fields,field_description:stock_kardex.field_stock_kardex_stock_start
 msgid "Starting stock"
-msgstr "Starting stock"
+msgstr "Stock Inicial"
 
 #. module: stock_kardex
 #: model:ir.model.fields,help:stock_kardex.field_stock_kardex_detail_move_qty_product
@@ -170,4 +170,3 @@ msgstr "stock.kardex"
 #: model:ir.model,name:stock_kardex.model_stock_kardex_detail
 msgid "stock.kardex.detail"
 msgstr "stock.kardex.detail"
-
